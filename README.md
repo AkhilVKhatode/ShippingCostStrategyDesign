@@ -1,8 +1,5 @@
 # Shipping Cost Calculator using Strategy Design Pattern
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Design Pattern](https://img.shields.io/badge/design%20pattern-strategy-brightgreen)
-
 A Python implementation of the Strategy design pattern for calculating shipping costs based on different factors like location, delivery speed, and package size.
 
 ## 📦 Overview
